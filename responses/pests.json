@@ -1,0 +1,4504 @@
+{
+	"pests": [
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-16",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-18",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.862120810457247,
+			"lon": -75.35110362946494
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-05",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-19",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.855777428603677,
+			"lon": -75.40601538907248
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-05",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-21",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.86366830332217,
+			"lon": -75.33493223589126
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-16",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-20",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.802274056481911,
+			"lon": -75.38581729040017
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-06",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.894026836419776,
+			"lon": -75.40527264961491
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-03",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-01",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.866658391229302,
+			"lon": -75.35156402970604
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-09",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-16",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.887612792881814,
+			"lon": -75.39229133601715
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-11",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-11",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.798698011767822,
+			"lon": -75.36066540588989
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-13",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-06",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.80324419423236,
+			"lon": -75.38698805216903
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-12",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-10",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.866683206023218,
+			"lon": -75.35075541336077
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-09",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.866236793587689,
+			"lon": -75.41549486355638
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-14",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.844602776435146,
+			"lon": -75.34132757110108
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-21",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-08",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.889734659924743,
+			"lon": -75.38562577973654
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-11",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-12",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.842036142465783,
+			"lon": -75.3408962807089
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-17",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-20",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.858278172870941,
+			"lon": -75.34082906232265
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-12",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-22",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.892296335319278,
+			"lon": -75.4031095069604
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-05",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-24",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.880404494196654,
+			"lon": -75.40877033476266
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-08",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-18",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.821328865274007,
+			"lon": -75.38463379688007
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-15",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-12",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.833989477819305,
+			"lon": -75.34277871040427
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-03",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-20",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.840988976417423,
+			"lon": -75.40527845262807
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-13",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-03",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.850086246744683,
+			"lon": -75.33298087012584
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-11",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-03",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.844453023422533,
+			"lon": -75.40493583883371
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-10",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.889152658286596,
+			"lon": -75.35148285977236
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-24",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.886053741269318,
+			"lon": -75.36025925757876
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-08",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.876063987071932,
+			"lon": -75.35480507889841
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-01",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.797190919670662,
+			"lon": -75.41758706682262
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-07",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-03",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.834715631221052,
+			"lon": -75.384722784519
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-12",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-06",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.883476900972736,
+			"lon": -75.40800447378484
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-10",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-05",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.840112660963598,
+			"lon": -75.39666583371302
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-15",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-12",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.807369425238853,
+			"lon": -75.41592879755531
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-23",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-21",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.858391184790332,
+			"lon": -75.43158924151524
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-15",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-12",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.808280294915969,
+			"lon": -75.43085186995856
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-18",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.808278517537037,
+			"lon": -75.37346549397807
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-24",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-20",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.820858192064295,
+			"lon": -75.42677734279849
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-16",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-23",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.828267863730419,
+			"lon": -75.41513594539629
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.841268964898148,
+			"lon": -75.34112651116197
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-21",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-13",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.883262681469136,
+			"lon": -75.41217047704198
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-17",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-12",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.839474341551725,
+			"lon": -75.42309523203396
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-08",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-03",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.844470481174323,
+			"lon": -75.33870342214706
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-21",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-15",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.858339858398958,
+			"lon": -75.42377435322662
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-21",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-01",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.878233973855451,
+			"lon": -75.38847651120092
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-18",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-20",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.861637624862219,
+			"lon": -75.3739054747735
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-16",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-05",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.873725663351909,
+			"lon": -75.41210174265407
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-17",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-06",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.82495245109279,
+			"lon": -75.40817320718755
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-14",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-19",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.873085338083438,
+			"lon": -75.38640216359377
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-12",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-20",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.872850595138885,
+			"lon": -75.38852499931096
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-06",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-13",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.870252402415934,
+			"lon": -75.40905723269107
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-06",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-11",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.836534791685231,
+			"lon": -75.41478315738597
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-12",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.797390673503227,
+			"lon": -75.43106763820484
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-13",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-23",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.854314946375279,
+			"lon": -75.37378982141136
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-11",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-08",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.872565704914091,
+			"lon": -75.37131836082663
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-12",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.878596868212997,
+			"lon": -75.40588624751032
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-04",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-23",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.889373149442722,
+			"lon": -75.3819012472172
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-03",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-10",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.836192848911617,
+			"lon": -75.35975230571397
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-06",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.861358469627486,
+			"lon": -75.36620299554343
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-03",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-01",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.876531331233274,
+			"lon": -75.42254211666865
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-22",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.805898165611554,
+			"lon": -75.33807209820486
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-19",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.83206490444116,
+			"lon": -75.345946880276
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-04",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-13",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.893505822364059,
+			"lon": -75.37221210503158
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-08",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-01",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.893785747270725,
+			"lon": -75.3790276642104
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-12",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-09",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.85385497158768,
+			"lon": -75.34376096409382
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-05",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-01",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.878970554101302,
+			"lon": -75.34661163298466
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-09",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.879776368527697,
+			"lon": -75.3886469683078
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.847466891193935,
+			"lon": -75.34868247623264
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-07",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-13",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.810745993522438,
+			"lon": -75.39303093395479
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-18",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-20",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.799318985094258,
+			"lon": -75.34166574957061
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-12",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-17",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.807425739293377,
+			"lon": -75.34844079838109
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-06",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.870281945613,
+			"lon": -75.4012094958481
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-10",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-12",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.893531350028917,
+			"lon": -75.41059662988772
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-17",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-02",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.832181110287966,
+			"lon": -75.38771914358233
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-18",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-15",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.870262280053778,
+			"lon": -75.35278717892525
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-07",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-16",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.81941450788839,
+			"lon": -75.3412957360991
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-04",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-12",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.829535063997595,
+			"lon": -75.38920768774703
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-02",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-08",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.798134838605533,
+			"lon": -75.42389496771904
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-02",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-08",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.814381105704014,
+			"lon": -75.40029736970618
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-13",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-15",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.867172103322954,
+			"lon": -75.33541020054571
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-23",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-16",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.817766632766093,
+			"lon": -75.38680171660383
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-11",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-24",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.822778139220079,
+			"lon": -75.35991975488821
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-07",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-22",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.891017146319783,
+			"lon": -75.37495546266372
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-11",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-11",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.865136623426881,
+			"lon": -75.33886978142588
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-08",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.823338781543075,
+			"lon": -75.39400421807449
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-07",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-12",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.870937479382471,
+			"lon": -75.41818344189113
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-24",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-05",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.866677424003349,
+			"lon": -75.3923482077357
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-19",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-12",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.842960265187374,
+			"lon": -75.39200017797313
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-19",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.865698637799571,
+			"lon": -75.39127954952016
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-04",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-23",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.878564730187117,
+			"lon": -75.3817337030215
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-24",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-06",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.855847399186118,
+			"lon": -75.39522591196028
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-05",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-19",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.891679976407262,
+			"lon": -75.35738789220335
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-19",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.871091258701984,
+			"lon": -75.41656281479153
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-10",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-23",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.848088796026973,
+			"lon": -75.3755266642029
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-12",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-12",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.87629948755441,
+			"lon": -75.34554929856569
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-07",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-05",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.858496873662633,
+			"lon": -75.35125126574565
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-03",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-06",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.824518460671948,
+			"lon": -75.34563441984174
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-19",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-12",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.86508888407293,
+			"lon": -75.34523952468028
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-14",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-16",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.820371270018185,
+			"lon": -75.4262793763125
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-10",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-18",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.85582344502248,
+			"lon": -75.34824342442217
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-16",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.837938506117943,
+			"lon": -75.42503755084593
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-21",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.8100868061941,
+			"lon": -75.35082996771987
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-20",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-19",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.875335249557992,
+			"lon": -75.39822042940878
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-07",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-01",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.841489719082686,
+			"lon": -75.40600755515283
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-02",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-09",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.870135241172166,
+			"lon": -75.41191052446462
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-01",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.810221406458096,
+			"lon": -75.34295641679418
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-01",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-01",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.827523794705096,
+			"lon": -75.3433036771112
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-18",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-08",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.84078327247373,
+			"lon": -75.41053680860036
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-21",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-16",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.832304118749281,
+			"lon": -75.36552855338937
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-01",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.84664471598875,
+			"lon": -75.35005898532503
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-10",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-11",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.808969765743782,
+			"lon": -75.4093163908121
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-04",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-13",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.835038566414674,
+			"lon": -75.38791587481377
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-06",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-09",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.859095105124506,
+			"lon": -75.40733239063796
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-21",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-15",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.796943363852732,
+			"lon": -75.40760927601548
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-12",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-11",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.874982205603903,
+			"lon": -75.38540994523875
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-14",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-17",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.841849164931249,
+			"lon": -75.35800589014377
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-20",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.808801378696696,
+			"lon": -75.3916198589241
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-17",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-03",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.86110554916105,
+			"lon": -75.35466192538335
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-19",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.864468988268426,
+			"lon": -75.34692433828295
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-21",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-20",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.870120793863506,
+			"lon": -75.42968550610965
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-03",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.827683087536458,
+			"lon": -75.35890230746665
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-05",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-24",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.877200063944239,
+			"lon": -75.42900360810417
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-17",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.886934685399297,
+			"lon": -75.34761119576105
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-13",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-16",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.872143095689447,
+			"lon": -75.43110225839966
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-19",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-13",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.878080099792266,
+			"lon": -75.35148092967333
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-03",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-10",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.866202088537932,
+			"lon": -75.42063228590958
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-21",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.803312806528274,
+			"lon": -75.34073394711419
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-18",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-20",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.873728257169605,
+			"lon": -75.3519178171163
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-03",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.809915494348003,
+			"lon": -75.36560031987203
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-12",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.85193976349056,
+			"lon": -75.3574556885002
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-16",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-02",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.876769301778353,
+			"lon": -75.34333609605896
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-11",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.839392098442834,
+			"lon": -75.4141226555033
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-14",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-08",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.833874235214713,
+			"lon": -75.4227873148956
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-10",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-18",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.807901058949996,
+			"lon": -75.35476319894667
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-05",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-10",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.851349775946982,
+			"lon": -75.41033402677643
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-15",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-01",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.888181434198792,
+			"lon": -75.33710127426772
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-08",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.800700425366568,
+			"lon": -75.37726687163105
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-02",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-03",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.83253322295225,
+			"lon": -75.36363690990778
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-08",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-09",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.840355819240397,
+			"lon": -75.36741118194507
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-05",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-23",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.824050006957236,
+			"lon": -75.3521048918317
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-18",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-23",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.829041143529796,
+			"lon": -75.41266370067638
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-23",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-09",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.879913829866416,
+			"lon": -75.40109607405522
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-12",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.820929431379751,
+			"lon": -75.34397463856253
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-10",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-10",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.80008657127038,
+			"lon": -75.36631780805207
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-19",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-12",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.86809793127249,
+			"lon": -75.36932253894275
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-10",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-15",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.836491828159925,
+			"lon": -75.36899330531504
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-07",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-05",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.880447505363016,
+			"lon": -75.3474850783723
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-23",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-06",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.854378323346513,
+			"lon": -75.37298012024037
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-18",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.8789421521216,
+			"lon": -75.41459270790861
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-02",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.873169142995582,
+			"lon": -75.38134438626334
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-12",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-11",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.868390373000386,
+			"lon": -75.37555172178064
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-01",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-09",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.824228076661093,
+			"lon": -75.39094111741473
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-14",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-20",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.893506653769373,
+			"lon": -75.37942984175461
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-15",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.848135941406863,
+			"lon": -75.38890871779485
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-05",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-10",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.809448068224988,
+			"lon": -75.34808478044825
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-24",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-19",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.836395380818843,
+			"lon": -75.36951874452598
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-16",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.8939187952581,
+			"lon": -75.407344197502
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-24",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-05",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.886012215456443,
+			"lon": -75.39642194857727
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-16",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-02",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.825389607151092,
+			"lon": -75.42816893325202
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-09",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-20",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.82230876400772,
+			"lon": -75.37880458404256
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-10",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.869917534727117,
+			"lon": -75.36760365015323
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-10",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.799325572300296,
+			"lon": -75.34468438354128
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-04",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.823978304549446,
+			"lon": -75.38384276175734
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-20",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-22",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.859060708628112,
+			"lon": -75.42201838997616
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-09",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-21",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.878464433400756,
+			"lon": -75.3763600576207
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-18",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-17",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.820941698924775,
+			"lon": -75.34117928017571
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-14",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-18",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.82014007195484,
+			"lon": -75.41728468772197
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-08",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-09",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.836017184167524,
+			"lon": -75.41030401664115
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-01",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-15",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.89556383739744,
+			"lon": -75.35952907308962
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-03",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-12",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.847296614769414,
+			"lon": -75.431054243751
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-18",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-23",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.885901363921324,
+			"lon": -75.36786075386883
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-17",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-13",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.835311986456713,
+			"lon": -75.33309017396014
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-21",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-19",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.812112279029815,
+			"lon": -75.40806765861983
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-14",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-23",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.847257699144906,
+			"lon": -75.37670343995201
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-05",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.820652613662729,
+			"lon": -75.34115208902084
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-08",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-18",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.86035590240112,
+			"lon": -75.34190018061022
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-10",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-18",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.856524135932581,
+			"lon": -75.35113972461585
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-19",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-13",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.886705522865924,
+			"lon": -75.36320520014318
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-17",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-08",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.805393379938522,
+			"lon": -75.36972245870025
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-17",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-09",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.809781742756433,
+			"lon": -75.42226084004794
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-10",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-08",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.841018277820883,
+			"lon": -75.4078315579835
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-17",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-06",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.802449115654088,
+			"lon": -75.37087886828812
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-01",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.89439208584086,
+			"lon": -75.38195031299762
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-17",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-03",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.810261795470367,
+			"lon": -75.37381050302301
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.82122168137858,
+			"lon": -75.33776593286225
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-01",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-09",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.846464785594168,
+			"lon": -75.36976927339472
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-16",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-09",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.849950785679777,
+			"lon": -75.42014642057667
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-02",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-01",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.867458548920785,
+			"lon": -75.334564000212
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-15",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-01",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.821840052051831,
+			"lon": -75.42482761346281
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-01",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-17",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.840611504632236,
+			"lon": -75.38767840118183
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-08",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-01",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.830705982606602,
+			"lon": -75.39695447190529
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-14",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.832688848819004,
+			"lon": -75.33935789983042
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-15",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-19",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.890512584237714,
+			"lon": -75.34329084095572
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-16",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-22",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.833632837767873,
+			"lon": -75.41678757020038
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-07",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-11",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.803545121268675,
+			"lon": -75.3861129453052
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-17",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-18",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.892980565781851,
+			"lon": -75.3595586313479
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-10",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.84225252278944,
+			"lon": -75.33358889710861
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-06",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-23",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.834880337458511,
+			"lon": -75.35362099151222
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-18",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-14",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.796617826904033,
+			"lon": -75.37938834840449
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-03",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-12",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.829753622266166,
+			"lon": -75.38041316194284
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-06",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-21",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.809001028506515,
+			"lon": -75.41633371514999
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-05",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-03",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.799648697909118,
+			"lon": -75.37055524725778
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-24",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-06",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.870847834417274,
+			"lon": -75.36594946116467
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-14",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-12",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.808878929449413,
+			"lon": -75.43103256404463
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-03",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-16",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.799064596630668,
+			"lon": -75.35064195276321
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-21",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-18",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.818382420976492,
+			"lon": -75.39799632212461
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-11",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-05",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.893638534979367,
+			"lon": -75.3928798390188
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-12",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-05",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.867692609605054,
+			"lon": -75.39848581373964
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-16",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-02",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.870681252771872,
+			"lon": -75.36680568886655
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-03",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-13",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.804072501206381,
+			"lon": -75.43253202271002
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-15",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-01",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.867475133595681,
+			"lon": -75.36562118762801
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-05",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-12",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.87887484735286,
+			"lon": -75.36165895334065
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-06",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-24",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.8638323135172,
+			"lon": -75.3864812558283
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-14",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-08",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.838720374609068,
+			"lon": -75.37539596302557
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-20",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-08",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.835009407899001,
+			"lon": -75.38668223388916
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-08",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-10",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.845365669179804,
+			"lon": -75.35814839389577
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-05",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-17",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.829629455467842,
+			"lon": -75.36034886281544
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-08",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-21",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.861089900574989,
+			"lon": -75.38421897485266
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-13",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-15",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.864455540514662,
+			"lon": -75.39602201849867
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-03",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-02",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.800074908828934,
+			"lon": -75.33932398640533
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-05",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-17",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.868139062069968,
+			"lon": -75.34830272075423
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-03",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.857698057428163,
+			"lon": -75.42019515218283
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-20",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.846331051525086,
+			"lon": -75.40241049295373
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-03",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-22",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.799622894783957,
+			"lon": -75.38148155650333
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-16",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-04",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.797939602120751,
+			"lon": -75.41368903054031
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-17",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.8084607171079,
+			"lon": -75.42982720207178
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-23",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-10",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.891046679291716,
+			"lon": -75.35033813380521
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-18",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-21",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.876814029134197,
+			"lon": -75.40788180338338
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-20",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-24",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.87497974927247,
+			"lon": -75.40634032276279
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-03",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-01",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.871420018629982,
+			"lon": -75.3419482952013
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-22",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.867390797164198,
+			"lon": -75.37877707306698
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-06",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-05",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.8651033646547,
+			"lon": -75.38184214942204
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-13",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-11",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.844935096604592,
+			"lon": -75.37185371020357
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-15",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-03",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.811427412245544,
+			"lon": -75.3801147223261
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-21",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-01",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.830297726379065,
+			"lon": -75.37994103204093
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-16",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-20",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.827791078262084,
+			"lon": -75.33967132186777
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-01",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-23",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.828883846178314,
+			"lon": -75.35421930924711
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-02",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-23",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.829701911891794,
+			"lon": -75.39348809012643
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-24",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-12",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.838205971839404,
+			"lon": -75.3941374048071
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-21",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-07",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.84482342073168,
+			"lon": -75.4058156893752
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-06",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-24",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.822594203738596,
+			"lon": -75.37723298751193
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-21",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-06",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.841618510679902,
+			"lon": -75.43078262913097
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-16",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-09",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.848354092947808,
+			"lon": -75.34364780104428
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-21",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-13",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.849707070410515,
+			"lon": -75.41110494064274
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-03",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-06",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.844180541071786,
+			"lon": -75.35066576991623
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-14",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-06",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.88847058370333,
+			"lon": -75.33804591643145
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-15",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-08",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.821802406406196,
+			"lon": -75.35060062538764
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-05",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-17",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.828762351412028,
+			"lon": -75.35692567924737
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-21",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-06",
+			"pest": "Mosca minadora",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.810540267326596,
+			"lon": -75.37552327317603
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-24",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-02",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.82966934124136,
+			"lon": -75.41218597456589
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-03",
+			"pest": "Ara\u00f1a roja",
+			"description": "Afecta a la papa, tomate, pimiento, pepino y calabaza. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-06",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.880495962715996,
+			"lon": -75.3792424537465
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-22",
+			"pest": "Polilla de calabaza",
+			"description": "Afecta a la calabaza, pepino, pimiento, tomate y sand\u00eda. Las larvas se alimentan de los tejidos de la planta. Usar insecticidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-08",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.841595674842969,
+			"lon": -75.42398081572574
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-01",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-16",
+			"pest": "Moho gris",
+			"description": "Afecta a la uva, fresa, tomate, manzana y pera. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.841204125952041,
+			"lon": -75.42576681934551
+		},
+		{
+			"country": "Peru",
+			"region": "Acolla",
+			"date": "2024-11-23",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.68885675,
+			"lon": -75.58237374999999
+		},
+		{
+			"country": "Peru",
+			"region": "Matahuasi",
+			"date": "2024-11-13",
+			"pest": "Podredumbre blanca",
+			"description": "Afecta a la lechuga, tomate, pimiento, pepino y calabaza. Causa la descomposici\u00f3n de los tejidos de la planta. Usar fungicidas",
+			"lat": -11.894513282158561,
+			"lon": -75.34909767740224
+		}
+	]
+}
